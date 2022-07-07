@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T07:25:30.296Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="t72-4o3eiExHtlKUatJg" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-07T07:31:30.663Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="CH8dpyTlj8ZR6Gk0zyt0" version="20.0.4" type="github" pages="2">
   <diagram id="Q8M7dspsmydSSTe5xuaJ" name="NAFMIP-PIP">
     <mxGraphModel dx="1288" dy="1776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
         <mxCell id="I0byQwNI66lFZ_5loFSM-26" value="Include?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="880" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I0byQwNI66lFZ_5loFSM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I0byQwNI66lFZ_5loFSM-39" target="I0byQwNI66lFZ_5loFSM-34">
+        <mxCell id="I0byQwNI66lFZ_5loFSM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I0byQwNI66lFZ_5loFSM-39" target="I0byQwNI66lFZ_5loFSM-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I0byQwNI66lFZ_5loFSM-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I0byQwNI66lFZ_5loFSM-29" target="I0byQwNI66lFZ_5loFSM-39">
@@ -98,14 +98,18 @@
         <mxCell id="I0byQwNI66lFZ_5loFSM-29" value="Programming PAPs" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I0byQwNI66lFZ_5loFSM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I0byQwNI66lFZ_5loFSM-32" target="I0byQwNI66lFZ_5loFSM-34">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="q8WI3TtE5F4IKLVRe1bu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I0byQwNI66lFZ_5loFSM-32" target="I0byQwNI66lFZ_5loFSM-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="-10" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="I0byQwNI66lFZ_5loFSM-32" value="Return to Proponent" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I0byQwNI66lFZ_5loFSM-34" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="890" width="60" height="60" as="geometry" />
+          <mxGeometry x="480" y="1260" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I0byQwNI66lFZ_5loFSM-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I0byQwNI66lFZ_5loFSM-36" target="I0byQwNI66lFZ_5loFSM-2">
           <mxGeometry relative="1" as="geometry" />
@@ -115,6 +119,18 @@
         </mxCell>
         <mxCell id="I0byQwNI66lFZ_5loFSM-39" value="Include in PIP" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8WI3TtE5F4IKLVRe1bu-1" value="Arrange PAPs by year based on priority level" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=0;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q8WI3TtE5F4IKLVRe1bu-2" value="PIP Submission process" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=0;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1090" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q8WI3TtE5F4IKLVRe1bu-3" value="Current Clearinghouse Process" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=0;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q8WI3TtE5F4IKLVRe1bu-4" value="Banner / Regular Program Process" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=0;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="700" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
