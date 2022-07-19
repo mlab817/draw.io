@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T05:19:20.252Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="Iz_PEFfFnRCEHjRPZgUm" version="20.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-19T05:19:40.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="MjOtzrjXgFwij7AdTJK0" version="20.1.1" type="github" pages="2">
   <diagram id="Q8M7dspsmydSSTe5xuaJ" name="NAFMIP-PIP">
     <mxGraphModel dx="1426" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -191,10 +191,10 @@
             <mxPoint x="790" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QqMhFdCTM6cxDPgcRd4V-23" value="PIPOL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QqMhFdCTM6cxDPgcRd4V-23" value="PIPOL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="80" y="55" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QqMhFdCTM6cxDPgcRd4V-24" value="PIPS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QqMhFdCTM6cxDPgcRd4V-24" value="PIPS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
