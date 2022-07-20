@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T06:23:23.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="blnxy5kOFgQY7ICUGmo8" version="20.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-20T06:31:38.150Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="SugWWr_tYNZYy9HNWEqs" version="20.1.1" type="github" pages="3">
   <diagram id="Q8M7dspsmydSSTe5xuaJ" name="NAFMIP-PIP">
     <mxGraphModel dx="1248" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -236,18 +236,11 @@
             <mxPoint x="200" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zJkGExulYsOqa4rEq8JE-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="zJkGExulYsOqa4rEq8JE-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="570" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zJkGExulYsOqa4rEq8JE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zJkGExulYsOqa4rEq8JE-11" target="zJkGExulYsOqa4rEq8JE-44">
+        <mxCell id="zJkGExulYsOqa4rEq8JE-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zJkGExulYsOqa4rEq8JE-11" target="zJkGExulYsOqa4rEq8JE-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zJkGExulYsOqa4rEq8JE-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zJkGExulYsOqa4rEq8JE-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="750" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="zJkGExulYsOqa4rEq8JE-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zJkGExulYsOqa4rEq8JE-11" target="zJkGExulYsOqa4rEq8JE-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zJkGExulYsOqa4rEq8JE-11" value="MYP" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="170" y="640" width="60" height="80" as="geometry" />
@@ -256,25 +249,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zJkGExulYsOqa4rEq8JE-17" value="PIP" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="170" y="840" width="60" height="80" as="geometry" />
+          <mxGeometry x="170" y="940" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zJkGExulYsOqa4rEq8JE-19" value="PBP" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="360" y="840" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zJkGExulYsOqa4rEq8JE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zJkGExulYsOqa4rEq8JE-31" target="zJkGExulYsOqa4rEq8JE-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="620" />
-              <mxPoint x="200" y="620" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zJkGExulYsOqa4rEq8JE-31" value="PREXC Conversion" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="940" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zJkGExulYsOqa4rEq8JE-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="zJkGExulYsOqa4rEq8JE-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="810" as="sourcePoint" />
+            <mxPoint x="200" y="910" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zJkGExulYsOqa4rEq8JE-39" value="Data Cleaning" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
@@ -283,20 +265,23 @@
         <mxCell id="zJkGExulYsOqa4rEq8JE-40" value="Projectization" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zJkGExulYsOqa4rEq8JE-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zJkGExulYsOqa4rEq8JE-41" target="zJkGExulYsOqa4rEq8JE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zJkGExulYsOqa4rEq8JE-41" value="Screening (can be checklist based)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zJkGExulYsOqa4rEq8JE-42" value="Based on responsiveness" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+        <mxCell id="zJkGExulYsOqa4rEq8JE-42" value="Based on responsiveness to NAFMIP / MYP" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="30" y="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zJkGExulYsOqa4rEq8JE-43" value="PIP/TRIP Formulation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zJkGExulYsOqa4rEq8JE-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zJkGExulYsOqa4rEq8JE-44" target="zJkGExulYsOqa4rEq8JE-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zJkGExulYsOqa4rEq8JE-44" value="Plan and Budget Process" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zJkGExulYsOqa4rEq8JE-46" value="Standardization &amp;amp; Conversion and Tagging" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="360" y="270" width="120" height="80" as="geometry" />
@@ -309,6 +294,27 @@
         </mxCell>
         <mxCell id="zJkGExulYsOqa4rEq8JE-49" value="Grouping of indicators into projects" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="240" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJkGExulYsOqa4rEq8JE-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zJkGExulYsOqa4rEq8JE-52" target="zJkGExulYsOqa4rEq8JE-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zJkGExulYsOqa4rEq8JE-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zJkGExulYsOqa4rEq8JE-52" target="zJkGExulYsOqa4rEq8JE-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zJkGExulYsOqa4rEq8JE-52" value="PREXC conversion" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zJkGExulYsOqa4rEq8JE-58" value="Not all PAPs are included in the PIP" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="30" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJkGExulYsOqa4rEq8JE-59" value="PDP" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="640" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJkGExulYsOqa4rEq8JE-61" value="IDENTIFICATION OF PROGRAMS AND PROJECTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zJkGExulYsOqa4rEq8JE-62" value="LFPs &amp;amp; FAPs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
