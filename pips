@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T05:25:52.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="Amwb_yvXtjp4LNch7JNx" version="20.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-20T05:26:59.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="_pTzRwx8vJzg0T_uUeq8" version="20.1.1" type="github" pages="3">
   <diagram id="Q8M7dspsmydSSTe5xuaJ" name="NAFMIP-PIP">
     <mxGraphModel dx="1248" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -300,6 +300,9 @@
         </mxCell>
         <mxCell id="zJkGExulYsOqa4rEq8JE-46" value="Standardization and Tagging" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="360" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJkGExulYsOqa4rEq8JE-47" value="&lt;b&gt;Standardization&lt;/b&gt; - come up with standard name for indicators and unit of measures as well as conversion factor&lt;br&gt;&lt;b&gt;Tagging&lt;/b&gt; - identification of appropriate tags for indicators (e.g. VC, commodity, prexc, etc)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
