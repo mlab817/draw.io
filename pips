@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T06:43:35.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="frmRGLYHNnQ4u39Hu04v" version="20.2.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-08-05T06:52:20.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="m8LVNFREFPELdQu-m5Vq" version="20.2.3" type="github" pages="6">
   <diagram id="Q8M7dspsmydSSTe5xuaJ" name="NAFMIP-PIP">
     <mxGraphModel dx="1426" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -316,86 +316,43 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ftiBUJ8FPxltwgfExUqK" name="Page-4">
-    <mxGraphModel dx="1422" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="ftiBUJ8FPxltwgfExUqK" name="Architecture">
+    <mxGraphModel dx="1426" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NEoUtZbbhjN9T2CPMSBJ-1" target="NEoUtZbbhjN9T2CPMSBJ-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jHI5sH4_Qkm7e7si7nok-2" value="SERVER" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="296.2" y="150" width="62.400000000000006" height="62.400000000000006" as="geometry" />
         </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NEoUtZbbhjN9T2CPMSBJ-1" target="NEoUtZbbhjN9T2CPMSBJ-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jHI5sH4_Qkm7e7si7nok-3" value="MOBILE" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="34" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="NEoUtZbbhjN9T2CPMSBJ-1" target="NEoUtZbbhjN9T2CPMSBJ-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="500" />
-              <mxPoint x="600" y="500" />
-            </Array>
+        <mxCell id="jHI5sH4_Qkm7e7si7nok-5" value="BROWSER" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/browser.svg;" vertex="1" parent="1">
+          <mxGeometry x="390" y="285" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jHI5sH4_Qkm7e7si7nok-6" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="292.4" y="10" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jHI5sH4_Qkm7e7si7nok-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jHI5sH4_Qkm7e7si7nok-2" target="jHI5sH4_Qkm7e7si7nok-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NEoUtZbbhjN9T2CPMSBJ-1" target="NEoUtZbbhjN9T2CPMSBJ-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="500" />
-              <mxPoint x="120" y="500" />
-            </Array>
+        <mxCell id="jHI5sH4_Qkm7e7si7nok-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="jHI5sH4_Qkm7e7si7nok-3" target="jHI5sH4_Qkm7e7si7nok-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-1" value="PMED" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NEoUtZbbhjN9T2CPMSBJ-2" target="NEoUtZbbhjN9T2CPMSBJ-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="380" />
-              <mxPoint x="360" y="380" />
-            </Array>
+        <mxCell id="jHI5sH4_Qkm7e7si7nok-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.865;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jHI5sH4_Qkm7e7si7nok-5" target="jHI5sH4_Qkm7e7si7nok-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="280" as="sourcePoint" />
+            <mxPoint x="350" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-2" value="Regional Banner Program Coordinators" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="NEoUtZbbhjN9T2CPMSBJ-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-3" value="Regional Attached Agencies" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NEoUtZbbhjN9T2CPMSBJ-4" target="NEoUtZbbhjN9T2CPMSBJ-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="600" y="380" />
-              <mxPoint x="360" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-4" value="Regional Attached Corporations" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NEoUtZbbhjN9T2CPMSBJ-5" target="NEoUtZbbhjN9T2CPMSBJ-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-5" value="Other Program Coordinators" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-10" value="National Banner Program Coordinators" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-11" value="National Attached Agencies" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-12" value="National Attached Corporations" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-13" value="Other National Program Coordinators" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NEoUtZbbhjN9T2CPMSBJ-19" value="National Banner Program" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="jHI5sH4_Qkm7e7si7nok-10" value="LARAVEL REST API" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://laravel.com/img/logomark.min.svg;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="50" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
