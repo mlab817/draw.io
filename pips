@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T04:54:37.647Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="-lIjpjketaOaAxGpgmVV" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-31T04:56:09.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="6IMyBNzdoLmxNrlmc2M0" version="20.2.7" type="github" pages="7">
   <diagram id="huBd1XZubI6R5p3V8AG6" name="ERD-1">
     <mxGraphModel dx="1412" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -610,7 +610,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="530" />
-              <mxPoint x="-120" y="530" />
+              <mxPoint x="-170" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -652,13 +652,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7VFyb-jgfGwR9ys4aq8L-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5v7d7lRMllvVCrRnYg7x-21" target="5v7d7lRMllvVCrRnYg7x-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-320" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sPi7LZxjZFVKFk3rhZEm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="5v7d7lRMllvVCrRnYg7x-21" target="sPi7LZxjZFVKFk3rhZEm-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-30" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5v7d7lRMllvVCrRnYg7x-21" value="PROJECTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="-230" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5v7d7lRMllvVCrRnYg7x-27" value="NEW PROJECT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="725" width="120" height="60" as="geometry" />
+          <mxGeometry x="-380" y="725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sPi7LZxjZFVKFk3rhZEm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="5v7d7lRMllvVCrRnYg7x-28" target="sPi7LZxjZFVKFk3rhZEm-2">
           <mxGeometry relative="1" as="geometry" />
@@ -667,7 +678,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5v7d7lRMllvVCrRnYg7x-28" value="EDIT PROJECT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-105" y="725" width="120" height="60" as="geometry" />
+          <mxGeometry x="-230" y="725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7VFyb-jgfGwR9ys4aq8L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="5v7d7lRMllvVCrRnYg7x-30" target="7VFyb-jgfGwR9ys4aq8L-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -812,16 +823,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sPi7LZxjZFVKFk3rhZEm-2" value="VIEW COMMENTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="-300" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sPi7LZxjZFVKFk3rhZEm-4" value="VIEW LOGS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="-150" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sPi7LZxjZFVKFk3rhZEm-6" value="ADD COMMENT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="-390" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sPi7LZxjZFVKFk3rhZEm-8" value="RESOLVE COMMENT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="930" width="120" height="60" as="geometry" />
+        <mxCell id="sPi7LZxjZFVKFk3rhZEm-8" value="RESOLVE COMMENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sPi7LZxjZFVKFk3rhZEm-10" value="DOWNLOAD PROJECTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="725" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
