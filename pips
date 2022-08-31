@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T04:58:37.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="9v88afkKsRW4b045iyQq" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-31T05:00:08.740Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="38rU1OFJONo0CelSLI9R" version="20.2.7" type="github" pages="7">
   <diagram id="huBd1XZubI6R5p3V8AG6" name="ERD-1">
     <mxGraphModel dx="1412" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -605,7 +605,7 @@
         <mxCell id="5v7d7lRMllvVCrRnYg7x-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5v7d7lRMllvVCrRnYg7x-18" target="5v7d7lRMllvVCrRnYg7x-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="530" />
+              <mxPoint x="250" y="530" />
               <mxPoint x="-170" y="530" />
             </Array>
           </mxGeometry>
@@ -705,7 +705,7 @@
         <mxCell id="5v7d7lRMllvVCrRnYg7x-34" value="ADD ACTIVITY" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="188.5" y="725" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5v7d7lRMllvVCrRnYg7x-38" value="REPORTS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5v7d7lRMllvVCrRnYg7x-38" value="REPORTS" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5v7d7lRMllvVCrRnYg7x-39" value="TRACKER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -775,7 +775,7 @@
         <mxCell id="ZoWVRhsTAFT4ikERQ5qn-1" value="HELP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="188.5" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZoWVRhsTAFT4ikERQ5qn-6" value="MODAL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ZoWVRhsTAFT4ikERQ5qn-6" value="DRAWER" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1145" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZoWVRhsTAFT4ikERQ5qn-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
