@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T07:08:50.572Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="lpQl8ZSsQkgYvwrH0nAE" version="20.2.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-09-06T05:58:49.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="diK0fVSRA6f4zgmYHbTB" version="20.2.8" type="github" pages="8">
   <diagram id="huBd1XZubI6R5p3V8AG6" name="ERD-1">
     <mxGraphModel dx="1426" dy="716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1759,9 +1759,6 @@
         </mxCell>
         <mxCell id="Cg0M2a37xgCfZDmpmkp3-46" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="650" y="570" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="eF1lH2R_n3HmR5tcHtFn-2" value="Permissions:&lt;br&gt;&lt;b&gt;users:manage&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
