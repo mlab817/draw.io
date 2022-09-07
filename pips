@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T01:07:12.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="f_uqLL0BS7s1JHaOX-9S" version="20.2.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-09-07T01:07:41.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="usJ5F2hY39g4h4C4kR-O" version="20.2.8" type="github" pages="8">
   <diagram id="huBd1XZubI6R5p3V8AG6" name="ERD-1">
     <mxGraphModel dx="1426" dy="716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -664,9 +664,6 @@
         <mxCell id="5v7d7lRMllvVCrRnYg7x-28" value="EDIT PROJECT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-230" y="725" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7VFyb-jgfGwR9ys4aq8L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="5v7d7lRMllvVCrRnYg7x-30" target="7VFyb-jgfGwR9ys4aq8L-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5v7d7lRMllvVCrRnYg7x-30" value="PROFILE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="550" y="600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -696,12 +693,6 @@
         </mxCell>
         <mxCell id="7VFyb-jgfGwR9ys4aq8L-5" value="CHANGE PASSWORD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="620.75" y="725" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7VFyb-jgfGwR9ys4aq8L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5v7d7lRMllvVCrRnYg7x-30" target="7VFyb-jgfGwR9ys4aq8L-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="670" as="sourcePoint" />
-            <mxPoint x="549.3000000000002" y="735" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="7VFyb-jgfGwR9ys4aq8L-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="7VFyb-jgfGwR9ys4aq8L-17" target="7VFyb-jgfGwR9ys4aq8L-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -878,6 +869,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="258.5" y="670" as="sourcePoint" />
             <mxPoint x="120" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXLl0uAD3gvYJpY4-ooP-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5v7d7lRMllvVCrRnYg7x-30" target="7VFyb-jgfGwR9ys4aq8L-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="258.5" y="670" as="sourcePoint" />
+            <mxPoint x="400" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXLl0uAD3gvYJpY4-ooP-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5v7d7lRMllvVCrRnYg7x-30" target="7VFyb-jgfGwR9ys4aq8L-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="670" as="sourcePoint" />
+            <mxPoint x="549.25" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
