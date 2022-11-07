@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T01:29:17.705Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="vQGihyOvP5WzH38QZNut" version="20.4.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-11-07T01:52:43.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="i6oWeUVaqgwR0q5RKn_u" version="20.4.0" type="github" pages="9">
   <diagram id="huBd1XZubI6R5p3V8AG6" name="ERD-1">
     <mxGraphModel dx="1426" dy="682" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1829,7 +1829,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u_1rR13owXgIbiHjJuH5" name="Page-8">
-    <mxGraphModel dx="2276" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2516" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1853,17 +1853,14 @@
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-4" value="CONSISTENCY CHECK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-6" target="xUKj51fCXMNQ-4Ym4yHA-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-6" value="CROSS-VALIDATION CHECK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-8" target="xUKj51fCXMNQ-4Ym4yHA-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-8" value="PDP ALIGNMENT CHECK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-10" target="xUKj51fCXMNQ-4Ym4yHA-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-10" value="CONSULTATION CHECK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="890" width="120" height="60" as="geometry" />
@@ -1875,7 +1872,7 @@
           <mxGeometry x="418" y="10" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-15" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-112.5" y="885" width="65" height="65" as="geometry" />
+          <mxGeometry x="397.5" y="1355" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-17" target="xUKj51fCXMNQ-4Ym4yHA-2">
           <mxGeometry relative="1" as="geometry" />
@@ -1921,8 +1918,18 @@
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-24" target="xUKj51fCXMNQ-4Ym4yHA-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-59" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xUKj51fCXMNQ-4Ym4yHA-44">
+          <mxGeometry x="-0.36" relative="1" as="geometry">
+            <mxPoint x="1" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-24" target="xUKj51fCXMNQ-4Ym4yHA-45">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-63" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xUKj51fCXMNQ-4Ym4yHA-46">
+          <mxGeometry x="-0.0857" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-24" value="Pass?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="760" width="80" height="80" as="geometry" />
@@ -1972,7 +1979,7 @@
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-47" target="xUKj51fCXMNQ-4Ym4yHA-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-47" value="Email the encoder the missing required information" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-47" value="Email the encoder the inconsistent information" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="62.5" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-49" target="xUKj51fCXMNQ-4Ym4yHA-4">
@@ -1981,8 +1988,74 @@
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-49" value="Receive response from encoder &amp;amp; reflect necessary changes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-52" value="The consultation check aims to validate the PAPs with concerned national operating units to decide whether the PAP can be included in the PIP/TRIP. OUs to be consulted are the following, &lt;i&gt;as applicable:&lt;/i&gt;&lt;br&gt;&lt;br&gt;- &lt;b&gt;BAFE&lt;/b&gt;: if the PAP is for submission to TRIP and/or has infrastructure component&lt;br&gt;- &lt;b&gt;PDS&lt;/b&gt;: for &lt;b&gt;PIPELINE/PROPOSED&lt;/b&gt; projects&lt;br&gt;- &lt;b&gt;SPCMAD&lt;/b&gt;: for &lt;b&gt;ONGOING&lt;/b&gt; projects&lt;br&gt;-&lt;b&gt; Banner Programs:&lt;/b&gt; &lt;br&gt;&amp;nbsp; - for PAPs tagged under their program&lt;br&gt;&amp;nbsp; - for PAPs tagged under the commodity/ies they cover&lt;br&gt;-&lt;b&gt; Reviewer&#39;s discretion&lt;/b&gt;: for OUs not tagged above but the reviewer may deem relevant" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="890" width="410" height="190" as="geometry" />
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-52" value="The consultation check aims to validate the PAPs with concerned national operating units to decide whether the PAP can be included in the PIP/TRIP and/or seek additional information in reviewing the PAP. OUs to be consulted are the following, &lt;i&gt;as applicable:&lt;/i&gt;&lt;br&gt;&lt;br&gt;- &lt;b&gt;BAFE&lt;/b&gt;: if the PAP is for submission to TRIP and/or has infrastructure component&lt;br&gt;- &lt;b&gt;PDS&lt;/b&gt;: for &lt;b&gt;PIPELINE/PROPOSED&lt;/b&gt; projects&lt;br&gt;- &lt;b&gt;SPCMAD&lt;/b&gt;: for &lt;b&gt;ONGOING&lt;/b&gt; projects&lt;br&gt;-&lt;b&gt; Banner Programs:&lt;/b&gt; &lt;br&gt;&amp;nbsp; - for PAPs tagged under their banner program&lt;br&gt;&amp;nbsp; - for PAPs tagged under the commodity/ies they cover&lt;br&gt;-&lt;b&gt; Reviewer&#39;s discretion&lt;/b&gt;: for OUs not tagged above but the reviewer may deem relevant&lt;br&gt;&lt;br&gt;&lt;i&gt;Note: This step is OPTIONAL UNLESS the reviewer is inclined to drop the PAP as most of the information should already be present in the forms filled up by the encoder.&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="890" width="400" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-53" target="xUKj51fCXMNQ-4Ym4yHA-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-60" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xUKj51fCXMNQ-4Ym4yHA-56">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-53" value="Pass?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-53" target="xUKj51fCXMNQ-4Ym4yHA-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-61" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xUKj51fCXMNQ-4Ym4yHA-58">
+          <mxGeometry x="-0.0667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-55" value="CROSS-VALIDATION CHECK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-57" target="xUKj51fCXMNQ-4Ym4yHA-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-57" value="Indicate all relevant information collected during consultation with the national OUs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-64" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-65" target="xUKj51fCXMNQ-4Ym4yHA-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-65" value="Email the encoder the result of the consultation and ask for conforme" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-66" target="xUKj51fCXMNQ-4Ym4yHA-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-66" value="Drop the PAP" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-73" target="xUKj51fCXMNQ-4Ym4yHA-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-76" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xUKj51fCXMNQ-4Ym4yHA-75">
+          <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-80" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-73" target="xUKj51fCXMNQ-4Ym4yHA-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-73" value="Encoder agrees?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-77" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="1007.5" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-79" target="xUKj51fCXMNQ-4Ym4yHA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-79" value="Ask for justification from the encoder" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
