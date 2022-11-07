@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T02:02:48.419Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="Y0HgbccURp6TR6SFx4Cc" version="20.4.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-11-07T02:09:49.506Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="BwJaxFMSTiEzqwCyk6H7" version="20.4.0" type="github" pages="9">
   <diagram id="huBd1XZubI6R5p3V8AG6" name="ERD-1">
     <mxGraphModel dx="1426" dy="682" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1959,7 +1959,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-39" value="Email the encoder the missing required information" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="62.5" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-40" target="xUKj51fCXMNQ-4Ym4yHA-2">
           <mxGeometry relative="1" as="geometry" />
