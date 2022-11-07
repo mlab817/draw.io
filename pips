@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T01:52:43.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="i6oWeUVaqgwR0q5RKn_u" version="20.4.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-11-07T01:57:49.019Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="iRyzPIfBn-AbFFN33zKQ" version="20.4.0" type="github" pages="9">
   <diagram id="huBd1XZubI6R5p3V8AG6" name="ERD-1">
     <mxGraphModel dx="1426" dy="682" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2018,9 +2018,6 @@
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-57" value="Indicate all relevant information collected during consultation with the national OUs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="1010" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-64" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-65" target="xUKj51fCXMNQ-4Ym4yHA-73">
           <mxGeometry relative="1" as="geometry" />
