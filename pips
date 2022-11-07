@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T01:26:13.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="qazcv78iknBcVOqOfZiv" version="20.4.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-11-07T01:29:17.705Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="vQGihyOvP5WzH38QZNut" version="20.4.0" type="github" pages="9">
   <diagram id="huBd1XZubI6R5p3V8AG6" name="ERD-1">
     <mxGraphModel dx="1426" dy="682" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1940,7 +1940,7 @@
           <mxGeometry x="530" y="145" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-33" value="Check if ALL the required data fields have been supplied by the encoder." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="400" width="300" height="30" as="geometry" />
+          <mxGeometry x="530" y="400" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-35" target="xUKj51fCXMNQ-4Ym4yHA-39">
           <mxGeometry relative="1" as="geometry" />
@@ -1949,7 +1949,7 @@
           <mxGeometry x="220" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-38" value="Check if the DATA supplied are consistent based on the following:&lt;br&gt;- &lt;b&gt;REGULAR PROGRAM&lt;/b&gt;: Can be ticked only if PAP is a program&lt;br&gt;- &lt;b&gt;TOTAL COST:&lt;/b&gt; if equal to breakdown by region and by funding source&lt;br&gt;- &lt;b&gt;SPATIAL COVERAGE:&lt;/b&gt; if all regions (except BARMM) is selected if nationwide; if more than one region but not all regions are selected if inter-regional, if one region is selected if region-specific; or if no region is selected if abroad&lt;br&gt;- &lt;b&gt;TBD&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;Note: For consistency checks, it is important to determine correctly which of the data field will be retained if they do not agree with each other.&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="650" width="300" height="220" as="geometry" />
+          <mxGeometry x="530" y="650" width="400" height="220" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-39" target="xUKj51fCXMNQ-4Ym4yHA-40">
           <mxGeometry relative="1" as="geometry" />
@@ -1981,8 +1981,8 @@
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-49" value="Receive response from encoder &amp;amp; reflect necessary changes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-52" value="The consultation check aims to validate the PAPs with concerned national operating units to decide whether the PAP can be included in the PIP/TRIP. OUs to be consulted are the following, &lt;i&gt;as applicable:&lt;/i&gt;&lt;br&gt;&lt;br&gt;- &lt;b&gt;BAFE&lt;/b&gt;: if the PAP is for submission to TRIP and/or has infrastructure component&lt;br&gt;- &lt;b&gt;PDS&lt;/b&gt;: for &lt;b&gt;PIPELINE/PROPOSED&lt;/b&gt; projects&lt;br&gt;- &lt;b&gt;SPCMAD&lt;/b&gt;: for &lt;b&gt;ONGOING&lt;/b&gt; projects&lt;br&gt;-&lt;b&gt; Banner Programs:&lt;/b&gt; for PAPs tagged under their commodity&lt;br&gt;&lt;br&gt;&lt;i&gt;Note: For consistency checks, it is important to determine correctly which of the data field will be retained if they do not agree with each other.&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="890" width="300" height="380" as="geometry" />
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-52" value="The consultation check aims to validate the PAPs with concerned national operating units to decide whether the PAP can be included in the PIP/TRIP. OUs to be consulted are the following, &lt;i&gt;as applicable:&lt;/i&gt;&lt;br&gt;&lt;br&gt;- &lt;b&gt;BAFE&lt;/b&gt;: if the PAP is for submission to TRIP and/or has infrastructure component&lt;br&gt;- &lt;b&gt;PDS&lt;/b&gt;: for &lt;b&gt;PIPELINE/PROPOSED&lt;/b&gt; projects&lt;br&gt;- &lt;b&gt;SPCMAD&lt;/b&gt;: for &lt;b&gt;ONGOING&lt;/b&gt; projects&lt;br&gt;-&lt;b&gt; Banner Programs:&lt;/b&gt; &lt;br&gt;&amp;nbsp; - for PAPs tagged under their program&lt;br&gt;&amp;nbsp; - for PAPs tagged under the commodity/ies they cover&lt;br&gt;-&lt;b&gt; Reviewer&#39;s discretion&lt;/b&gt;: for OUs not tagged above but the reviewer may deem relevant" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="890" width="410" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
