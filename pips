@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T01:59:22.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="KhiaPXOpyq15qLi2tQwq" version="20.4.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-11-07T02:02:48.419Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="Y0HgbccURp6TR6SFx4Cc" version="20.4.0" type="github" pages="9">
   <diagram id="huBd1XZubI6R5p3V8AG6" name="ERD-1">
     <mxGraphModel dx="1426" dy="682" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1934,14 +1934,11 @@
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-24" value="Pass?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="760" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-26" target="xUKj51fCXMNQ-4Ym4yHA-29">
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-26" target="xUKj51fCXMNQ-4Ym4yHA-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-26" value="Indicate reason for failing in the remarks" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-29" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="90" y="257.5" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-31" value="Check if the PAP is NOT present in the exclusion guidelines of NEDA and DA.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="145" width="300" height="30" as="geometry" />
@@ -2073,6 +2070,49 @@
         </mxCell>
         <mxCell id="xUKj51fCXMNQ-4Ym4yHA-85" value="Pass?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410.5" y="1490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-89" target="xUKj51fCXMNQ-4Ym4yHA-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-89" value="Email the encoder the result of the consultation and ask for conforme" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-90" target="xUKj51fCXMNQ-4Ym4yHA-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-90" value="Drop the PAP" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-91" target="xUKj51fCXMNQ-4Ym4yHA-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-102" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xUKj51fCXMNQ-4Ym4yHA-96">
+          <mxGeometry x="0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-91" value="Encoder agrees?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-92" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="257.5" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-93" target="xUKj51fCXMNQ-4Ym4yHA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-93" value="Ask for justification from the encoder" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xUKj51fCXMNQ-4Ym4yHA-91" target="xUKj51fCXMNQ-4Ym4yHA-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="460" as="sourcePoint" />
+            <mxPoint x="230" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xUKj51fCXMNQ-4Ym4yHA-101" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xUKj51fCXMNQ-4Ym4yHA-100">
+          <mxGeometry x="0.2929" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
