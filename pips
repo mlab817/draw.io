@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T05:42:35.941Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="_MFKdvFC33zG9eXzR1HS" version="20.6.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-12-21T05:43:45.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="tqQrVgtGOXZWttfKDmLv" version="20.6.2" type="github" pages="9">
   <diagram id="u_1rR13owXgIbiHjJuH5" name="Review Process">
     <mxGraphModel dx="2528" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -482,8 +482,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="270" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="130" y="240" />
-              <mxPoint x="10" y="240" />
+              <mxPoint x="130" y="230" />
+              <mxPoint x="10" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
